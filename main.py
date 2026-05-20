@@ -4,7 +4,7 @@ import time
 
 
 if __name__ == '__main__':
-    df = pd.read_csv('1(1).csv')
+    df = pd.read_csv('text.csv')
 
     mod = input('1.开始\n0.结束')
 
